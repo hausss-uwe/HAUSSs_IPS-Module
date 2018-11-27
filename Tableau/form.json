@@ -1,12 +1,12 @@
 {
   "elements":
   [
-    { "type": "Caption", "label": "Modul by HAUSss Gesellschaft für intelligente Gebäude mbH - http://hausss.de"},
-    { "type": "Caption", "label": ""},
-    { "type": "Caption", "label": "General Settings"},
+    { "type": "Label", "label": "Modul by HAUSss Gesellschaft für intelligente Gebäude mbH - http://hausss.de"},
+    { "type": "Label", "label": ""},
+    { "type": "Label", "label": "General Settings"},
     { "type": "SelectInstance", "name": "TableauID", "caption": "Tableau ID"},
     { "type": "NumberSpinner", "name": "Refresh", "caption": "Refresh Intervall (s)"},
-    { "type": "Caption", "label": "Variable Profiles"},
+    { "type": "Label", "label": "Variable Profiles"},
     { "type": "ValidationTextBox", "name": "Profile_N", "caption": "N"},
     { "type": "ValidationTextBox", "name": "Profile_T", "caption": "T"},
     { "type": "ValidationTextBox", "name": "Profile_V", "caption": "V"},
