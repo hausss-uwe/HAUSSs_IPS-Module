@@ -1,0 +1,14 @@
+{
+  "id": "{725F801D-E5ED-4FEE-9F18-B4CCEE8240AF}",
+  "name": "TableauSummenlaempchen",
+  "type": 3,
+  "vendor": "HAUSss Gesellschaft für intelligente Gebäude mbH",
+  "aliases":
+  [
+    "Tableau/Summenlämpchen"
+  ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "HAUSss"
+}
